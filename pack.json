@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-infra",
+    "description": "Infrastructure and DevOps skills for Docker, GCP, and CI/CD",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["docker"],
+    "contents": {
+        "skills": ["gcp-infrastructure"],
+        "agents": ["devops"],
+        "hooks": []
+    },
+    "tags": ["docker", "gcp", "ci-cd", "devops", "infrastructure"]
+}
